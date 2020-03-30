@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+p{
+    text-align: center;
+    padding: 2px;
+    color: gray;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    color: gray;
+}
+img{
+    margin: auto;
+}
+body{
+    width: 90%;
+    margin: auto;
+    background-color: rgba(247, 247, 242, 0.877)
+}
+
