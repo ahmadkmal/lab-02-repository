@@ -1,0 +1,9 @@
+div#pages p:hover{
+    cursor: pointer;
+    background: #cecec9;
+}
+div#pages p:active{
+    border: solid 1px #d8d8d8c2;
+    background: #ecece7be;
+    color: rgba(128, 128, 128, 0.801);
+}
