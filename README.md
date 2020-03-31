@@ -39,3 +39,33 @@ Start time: 4:30
 Finish time: 5:50
 
 Actual time needed to complete: 1:20 hour
+
+## Number and name of feature:  Templating
+
+Estimate of time needed to complete: 0.5 hour
+
+Start time: 6:30
+
+Finish time: 7:00
+
+Actual time needed to complete: 0.5 hour
+
+## Number and name of feature:  Styling with Flexbox
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 8:30
+
+Finish time: 9:30
+
+Actual time needed to complete: 1 hour
+
+## Number and name of feature:  Sort the images
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 9:30
+
+Finish time: 12:30
+
+Actual time needed to complete: 3 hour
